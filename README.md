@@ -2,14 +2,14 @@
 ## Đề bài :  http://ai.berkeley.edu/tracking.html
 
 ## Điểm autograder
-**Question** q1: 3/3
-**Question** q2: 4/4
-**Question** q3: 3/3
-**Question** q4: 3/3
-**Question** q5: 4/4
-**Question** q6: 4/4
-**Question** q7: 4/4
-**Total**: 15/25
+- **Question** q1: 3/3
+- **Question** q2: 4/4
+- **Question** q3: 3/3
+- **Question** q4: 3/3
+- **Question** q5: 4/4
+- **Question** q6: 4/4
+- **Question** q7: 4/4
+- **Total**: 15/25
 
 ## Question1 
 - Với mỗi phần tử p trong self.legalPositions, nếu noisyDistance là none, có nghĩa là pacman đã ăn con ma và vị trí của ma, cập nhật "jail" nơi ma bị ăn, nếu không thì cập nhật belief dựa vào khoảng cách từ ma đến p.
